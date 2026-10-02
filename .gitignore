@@ -1,0 +1,6 @@
+secrets/
+data/
+logs/
+.env
+__pycache__/
+*.bak
